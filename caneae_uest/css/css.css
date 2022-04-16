@@ -1,0 +1,26 @@
+:root {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+img{
+    width: 80vw;
+    height: 35vw;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2vw;
+    color: whitesmoke;
+}
+button {
+    cursor: pointer;
+    background-color: 	white;
+    border: none;
+    font-weight: bolder;
+    color: black;
+    padding: 1vw 25vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1vw;
+}
